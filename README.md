@@ -71,9 +71,6 @@ Class `QueueServis` adalah Queue berbasis array dengan kapasitas tetap.
 
 Class diagram tersedia di folder `docs`:
 
-![Class Diagram](docs/class-diagram.png)
-
-
 ## Pengujian
 
 Skenario uji beserta screenshot hasil program ada di folder `docs` dan di laporan PDF.
